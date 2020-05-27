@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Uebung1:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e214161d-3892-40a9-b57f-ef81b6c1fc18" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="GLSL Shader" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Tpk3pafCpK47lwAWvLotg1SgNe" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ab3" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dirob\OneDrive\HTW Berlin\Semester3\ComputerGrafik Lenz\Uebung1\src\ab3" />
+      <recent name="C:\Users\dirob\OneDrive\HTW Berlin\Semester3\ComputerGrafik Lenz\Uebung1\src\a2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JAR Application.Uebung1.jar">
+    <configuration name="Aufgabe3undFolgende" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ab3.Aufgabe3undFolgende" />
+      <module name="Uebung1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abgabe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrosseAbgabe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abgabe.GrosseAbgabe" />
+      <module name="Uebung1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abgabe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uebung1.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Uebung1_jar/Uebung1.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.Uebung1.jar" />
+        <item itemvalue="Application.Aufgabe3undFolgende" />
+        <item itemvalue="Application.GrosseAbgabe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e214161d-3892-40a9-b57f-ef81b6c1fc18" name="Default Changelist" comment="" />
+      <created>1574164228096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574164228096</updated>
+      <workItem from="1574164233557" duration="13952000" />
+      <workItem from="1574606431263" duration="325000" />
+      <workItem from="1574607562806" duration="1187000" />
+      <workItem from="1574621116959" duration="489000" />
+      <workItem from="1575365673246" duration="14890000" />
+      <workItem from="1575462382468" duration="15000" />
+      <workItem from="1575976894092" duration="14838000" />
+      <workItem from="1576048813128" duration="65000" />
+      <workItem from="1578398737354" duration="4696000" />
+      <workItem from="1578490658822" duration="15617000" />
+      <workItem from="1578998514184" duration="16559000" />
+      <workItem from="1579161672899" duration="1689000" />
+      <workItem from="1579429995689" duration="1470000" />
+      <workItem from="1579601052036" duration="8289000" />
+      <workItem from="1579616797416" duration="15000" />
+      <workItem from="1581243305663" duration="3718000" />
+      <workItem from="1581338867683" duration="591000" />
+      <workItem from="1581412533757" duration="2103000" />
+      <workItem from="1582571089354" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
